@@ -1,0 +1,16 @@
+F:\Socket\first\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocketDemo.exe
+F:\Socket\first\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocketDemo.pdb
+F:\Socket\first\SuperSocketDemo\SuperSocketDemo\bin\Debug\log4net.dll
+F:\Socket\first\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.Common.dll
+F:\Socket\first\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.Facility.dll
+F:\Socket\first\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketBase.dll
+F:\Socket\first\SuperSocketDemo\SuperSocketDemo\bin\Debug\log4net.xml
+F:\Socket\first\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.Common.xml
+F:\Socket\first\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.Facility.xml
+F:\Socket\first\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketBase.xml
+F:\Socket\first\SuperSocketDemo\SuperSocketDemo\obj\Debug\SuperSocketDemo.exe
+F:\Socket\first\SuperSocketDemo\SuperSocketDemo\obj\Debug\SuperSocketDemo.pdb
+F:\Socket\first\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketEngine.dll
+F:\Socket\first\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe
+F:\Socket\first\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketEngine.xml
+F:\Socket\first\SuperSocketDemo\SuperSocketDemo\bin\Debug\Config\log4net.config

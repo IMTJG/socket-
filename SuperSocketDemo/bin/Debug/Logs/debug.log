@@ -1,0 +1,21 @@
+﻿2018-02-20 18:33:57,200 [1] DEBUG AppServer-21083178 - Listener (0.0.0.0:2017) was started
+2018-02-20 18:35:18,500 [1] DEBUG AppServer-21083178 - Listener (0.0.0.0:2017) was stoppped
+2018-02-20 18:51:27,943 [1] DEBUG AppServer-21083178 - Listener (0.0.0.0:2017) was started
+2018-02-20 19:04:33,641 [1] DEBUG AppServer-21083178 - Listener (0.0.0.0:2000) was started
+2018-02-20 19:09:25,491 [1] DEBUG AppServer-21083178 - Listener (0.0.0.0:2000) was stoppped
+2018-02-20 19:18:06,866 [1] DEBUG AppServer-21083178 - Listener (0.0.0.0:2000) was started
+2018-02-20 19:22:51,846 [1] DEBUG AppServer-21083178 - Listener (0.0.0.0:2000) was stoppped
+2018-02-20 19:30:26,577 [1] DEBUG AppServer-21083178 - Listener (0.0.0.0:2000) was started
+2018-02-20 19:34:42,522 [1] DEBUG AppServer-21083178 - Listener (0.0.0.0:2000) was stoppped
+2018-02-20 19:48:13,537 [1] DEBUG AppServer-21083178 - Listener (0.0.0.0:2000) failed to start
+2018-02-20 19:48:25,153 [1] DEBUG AppServer-21083178 - Listener (0.0.0.0:2000) failed to start
+2018-02-20 19:48:37,746 [1] DEBUG AppServer-21083178 - Listener (0.0.0.0:2000) failed to start
+2018-02-20 19:49:01,001 [1] DEBUG AppServer-21083178 - Listener (0.0.0.0:2000) failed to start
+2018-02-20 19:49:21,804 [1] DEBUG AppServer-21083178 - Listener (0.0.0.0:2000) was started
+2018-02-20 19:57:38,309 [1] DEBUG AppServer-21083178 - Listener (0.0.0.0:2000) was stoppped
+2018-02-20 19:57:52,151 [1] DEBUG AppServer-21083178 - Listener (0.0.0.0:2000) was started
+2018-02-20 20:00:22,972 [1] DEBUG AppServer-21083178 - Listener (0.0.0.0:2000) was stoppped
+2018-02-20 20:17:21,511 [1] DEBUG AppServer-21083178 - Listener (0.0.0.0:2012) was started
+2018-02-20 20:19:00,215 [1] DEBUG AppServer-21083178 - Listener (0.0.0.0:2012) was stoppped
+2018-02-20 20:25:24,813 [1] DEBUG AppServer-21083178 - Listener (0.0.0.0:2012) was started
+2018-02-20 20:26:02,085 [1] DEBUG AppServer-21083178 - Listener (0.0.0.0:2012) was stoppped

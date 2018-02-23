@@ -1,0 +1,20 @@
+﻿2018-02-20 19:48:13,287 [1] ERROR AppServer-21083178 - Listener (0.0.0.0:2000) error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2018-02-20 19:48:25,119 [1] ERROR AppServer-21083178 - Listener (0.0.0.0:2000) error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2018-02-20 19:48:37,715 [1] ERROR AppServer-21083178 - Listener (0.0.0.0:2000) error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2018-02-20 19:49:00,970 [1] ERROR AppServer-21083178 - Listener (0.0.0.0:2000) error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)

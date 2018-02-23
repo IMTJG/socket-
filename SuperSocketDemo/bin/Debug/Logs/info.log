@@ -1,0 +1,55 @@
+﻿2018-02-20 18:33:57,216 [1] INFO  AppServer-21083178 - The server instance AppServer-21083178 has been started!
+2018-02-20 18:34:05,079 [3] INFO  AppServer-21083178 - Session: aa4f3e7d-749a-4a3f-91bc-8a16986abedb/127.0.0.1:51216
+A new session connected!
+2018-02-20 18:35:18,511 [1] INFO  AppServer-21083178 - The server instance AppServer-21083178 has been stopped!
+2018-02-20 18:35:18,646 [5] INFO  AppServer-21083178 - Session: aa4f3e7d-749a-4a3f-91bc-8a16986abedb/127.0.0.1:51216
+This session was closed for ServerShutdown!
+2018-02-20 18:51:27,959 [1] INFO  AppServer-21083178 - The server instance AppServer-21083178 has been started!
+2018-02-20 18:51:35,228 [3] INFO  AppServer-21083178 - Session: ce514689-0e30-4b14-93f4-f2725722ad09/127.0.0.1:52172
+A new session connected!
+2018-02-20 19:04:33,665 [1] INFO  AppServer-21083178 - The server instance AppServer-21083178 has been started!
+2018-02-20 19:07:48,912 [3] INFO  AppServer-21083178 - Session: 543f23c8-4a4b-4ead-9ec0-290cff7c507b/127.0.0.1:53053
+A new session connected!
+2018-02-20 19:09:14,056 [5] INFO  AppServer-21083178 - Session: 543f23c8-4a4b-4ead-9ec0-290cff7c507b/127.0.0.1:53053
+This session was closed for ClientClosing!
+2018-02-20 19:09:25,491 [1] INFO  AppServer-21083178 - The server instance AppServer-21083178 has been stopped!
+2018-02-20 19:18:06,881 [1] INFO  AppServer-21083178 - The server instance AppServer-21083178 has been started!
+2018-02-20 19:18:12,995 [3] INFO  AppServer-21083178 - Session: b937f7c0-17c8-4b83-a786-bd4b25604f16/127.0.0.1:53287
+A new session connected!
+2018-02-20 19:22:42,826 [7] INFO  AppServer-21083178 - Session: b937f7c0-17c8-4b83-a786-bd4b25604f16/127.0.0.1:53287
+This session was closed for ClientClosing!
+2018-02-20 19:22:51,846 [1] INFO  AppServer-21083178 - The server instance AppServer-21083178 has been stopped!
+2018-02-20 19:30:26,608 [1] INFO  AppServer-21083178 - The server instance AppServer-21083178 has been started!
+2018-02-20 19:31:28,759 [3] INFO  AppServer-21083178 - Session: 56690dc7-66d0-47fa-b40c-6a45b8940ed6/127.0.0.1:53522
+A new session connected!
+2018-02-20 19:34:42,522 [1] INFO  AppServer-21083178 - The server instance AppServer-21083178 has been stopped!
+2018-02-20 19:34:42,527 [5] INFO  AppServer-21083178 - Session: 56690dc7-66d0-47fa-b40c-6a45b8940ed6/127.0.0.1:53522
+This session was closed for ServerShutdown!
+2018-02-20 19:49:21,843 [1] INFO  AppServer-21083178 - The server instance AppServer-21083178 has been started!
+2018-02-20 19:49:29,785 [3] INFO  AppServer-21083178 - Session: 6755cd4a-5f87-4748-a1fa-9fc64730ec00/127.0.0.1:54360
+A new session connected!
+2018-02-20 19:52:30,298 [5] INFO  AppServer-21083178 - Session: 6755cd4a-5f87-4748-a1fa-9fc64730ec00/127.0.0.1:54360
+This session was closed for ClientClosing!
+2018-02-20 19:55:35,186 [6] INFO  AppServer-21083178 - Session: 6b21a255-8685-4cc0-8a47-c7e800a02608/127.0.0.1:54632
+A new session connected!
+2018-02-20 19:57:29,751 [8] INFO  AppServer-21083178 - Session: 6b21a255-8685-4cc0-8a47-c7e800a02608/127.0.0.1:54632
+This session was closed for ClientClosing!
+2018-02-20 19:57:38,309 [1] INFO  AppServer-21083178 - The server instance AppServer-21083178 has been stopped!
+2018-02-20 19:57:52,167 [1] INFO  AppServer-21083178 - The server instance AppServer-21083178 has been started!
+2018-02-20 19:58:11,727 [3] INFO  AppServer-21083178 - Session: fcadcd34-8c65-4445-95a1-1cc5bc337c82/127.0.0.1:54687
+A new session connected!
+2018-02-20 20:00:09,785 [7] INFO  AppServer-21083178 - Session: fcadcd34-8c65-4445-95a1-1cc5bc337c82/127.0.0.1:54687
+This session was closed for ClientClosing!
+2018-02-20 20:00:22,972 [1] INFO  AppServer-21083178 - The server instance AppServer-21083178 has been stopped!
+2018-02-20 20:17:21,526 [1] INFO  AppServer-21083178 - The server instance AppServer-21083178 has been started!
+2018-02-20 20:18:23,454 [3] INFO  AppServer-21083178 - Session: 2a27fdda-155f-4cc8-b0dd-12323749648b/127.0.0.1:55016
+A new session connected!
+2018-02-20 20:18:54,800 [8] INFO  AppServer-21083178 - Session: 2a27fdda-155f-4cc8-b0dd-12323749648b/127.0.0.1:55016
+This session was closed for ClientClosing!
+2018-02-20 20:19:00,215 [1] INFO  AppServer-21083178 - The server instance AppServer-21083178 has been stopped!
+2018-02-20 20:25:24,829 [1] INFO  AppServer-21083178 - The server instance AppServer-21083178 has been started!
+2018-02-20 20:25:28,818 [3] INFO  AppServer-21083178 - Session: 05c85173-ff5e-4ae4-9fd8-3032960b4bdc/127.0.0.1:55111
+A new session connected!
+2018-02-20 20:25:55,267 [7] INFO  AppServer-21083178 - Session: 05c85173-ff5e-4ae4-9fd8-3032960b4bdc/127.0.0.1:55111
+This session was closed for ClientClosing!
+2018-02-20 20:26:02,085 [1] INFO  AppServer-21083178 - The server instance AppServer-21083178 has been stopped!
